@@ -1,5 +1,5 @@
---- frameworks/base/core/res/res/values/config.xml      2023-11-20 19:40:09.501955846 +0300
-+++ frameworks/base/core/res/res/values/config.xml      2023-11-20 19:40:09.501955846 +0300
+--- a/core/res/res/values/config.xml      2023-11-20 19:40:09.501955846 +0300
++++ b/core/res/res/values/config.xml      2023-11-20 19:40:09.501955846 +0300
 @@ -918,7 +918,7 @@
              4 - Go to voice assist
              5 - Go to assistant (Settings.Secure.ASSISTANT)
