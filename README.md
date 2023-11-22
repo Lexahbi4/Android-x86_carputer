@@ -41,7 +41,7 @@ mkdir android-x86
 cd android-x86
 
 git config --global user.name "Lexins"
-git config --global user.email "trifonoff.aleksey@example.com"
+git config --global user.email "trifonoff.aleksey@gmail.com"
 repo init -u git://git.osdn.net/gitroot/android-x86/manifest -b r-x86
 
 To add GAPPS to your build you need to add the build system, and the wanted sources to your manifest.
